@@ -1,0 +1,28 @@
+{
+  "name": "ly-webpack",
+  "version": "1.0.0",
+  "description": "webpack template",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyliyue/ly-webpack.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "jyliyue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jyliyue/ly-webpack/issues"
+  },
+  "homepage": "https://github.com/jyliyue/ly-webpack#readme",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-server": "^3.2.1"
+  }
+}
